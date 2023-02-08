@@ -23,7 +23,14 @@ J. Commiting the file to the github account:
 K. Create app.py file and create the application in that.    
 L. Create a templates folder and add home.html to it.   
 M. Add all the new files to the github. (using process in point 'J')     
-N. 
+N. To deploy the app in Heroku:
+    1. Create a Procfile
+    2. Using Git-CLI in the Heroku app, deploy the application.
+O. To deploy using Dockers and Github actions:
+    1. Create a Dockerfile.
+    2. Create '.github' folder. In that folder, create 'workflows' folder. In that folder create 'main.yaml' file. 
+    3. Copy secret keys from the Heroku app (it will be available in the account settings) to the Github secrets.   
+    4. 
 
 
 
