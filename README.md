@@ -30,7 +30,8 @@ O. To deploy using Dockers and Github actions:
     1. Create a Dockerfile.
     2. Create '.github' folder. In that folder, create 'workflows' folder. In that folder create 'main.yaml' file. 
     3. Copy secret keys from the Heroku app (it will be available in the account settings) to the Github secrets.   
-    4. 
+    4. Add everything to the github   
+
 
 
 
