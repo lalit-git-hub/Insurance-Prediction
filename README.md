@@ -12,7 +12,20 @@ F. Create a new environment:
     2. Activating the environment: conda activate venv/   
     3. Deactivating the environment: conda deactivate   
 G. Create a requirements.txt file. (for libraries to be used)   
-H. To install those libraries: pip install -r requirements.txt   
+H. To install those libraries: pip install -r requirements.txt    
+I. Configure git (git config --global user.name "Lalit") then configure email (git config --global user.email "lalitwale100@gmail.com")       
+J. Commiting the file to the github account:    
+    1. To add just one file: git add file_name.extension
+    2. To add all the files: git add .
+    3. To check the status: git status    
+    4. To commit: git commit -m "message"   
+    5. Push: git push <remote> <branch>  (git push origin main)   
+K. Create app.py file and create the application in that.    
+L. Create a templates folder and add home.html to it.   
+M. Add all the new files to the github. (using process in point 'J')     
+N. 
+
+
 
 
 
